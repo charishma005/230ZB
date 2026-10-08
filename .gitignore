@@ -1,0 +1,8 @@
+# Binary data files (too large for GitHub)
+*.npy
+*.npz
+*.joblib
+*.parquet
+
+# macOS
+.DS_Store
